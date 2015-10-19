@@ -1,2 +1,4 @@
 # hello-world
-Jinnie's first repository
+Junnie's first repository
+I have no idea what I am doing but it is intertesting.
+I am way out of my box.
